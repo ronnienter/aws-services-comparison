@@ -9,10 +9,6 @@ interface ComparisonViewProps {
 const ComparisonView: React.FC<ComparisonViewProps> = ({ services, onClose }) => {
   if (services.length === 0) return null;
 
-  const maxFeatures = Math.max(...services.map(s => s.key_features.length));
-  const maxUseCases = Math.max(...services.map(s => s.use_cases.length));
-  const maxPricingNotes = Math.max(...services.map(s => s.pricing_notes.length));
-
   return (
     <div className="comparison-view">
       <div className="comparison-header">
