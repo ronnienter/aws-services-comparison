@@ -1,5 +1,9 @@
 # AWS Services Comparison Tool
 
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aws-services-comparison-25bnm6l2f-ronnienters-projects.vercel.app)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
 🚀 **[Live Demo](https://aws-services-comparison-25bnm6l2f-ronnienters-projects.vercel.app)**
 
 A modern web application for comparing Amazon Web Services with detailed information about features, pricing models, and use cases.
