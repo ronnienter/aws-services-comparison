@@ -251,6 +251,7 @@ body {
   box-shadow: 0 4px 20px var(--shadow-elevated);
   background: var(--bg-tertiary);
   border-color: var(--aws-orange);
+  will-change: transform;
 }
 
 .service-card.selected {
