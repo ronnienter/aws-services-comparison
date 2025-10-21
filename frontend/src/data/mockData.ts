@@ -165,6 +165,35 @@ export const mockServices: AWSService[] = [
   }
 ];
 
+  {
+    id: "apigateway",
+    name: "Amazon API Gateway",
+    category: "Networking",
+    description: "Fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs",
+    pricing_model: "Pay-per-request",
+    key_features: [
+      "RESTful APIs and WebSocket APIs",
+      "Request/response transformations",
+      "API versioning and staging",
+      "Authentication and authorization",
+      "Request throttling and caching"
+    ],
+    use_cases: [
+      "Mobile backends",
+      "Microservices architecture",
+      "Serverless applications",
+      "API monetization"
+    ],
+    free_tier: true,
+    free_tier_details: "1 million API calls per month for REST APIs, 1 million messages and 750,000 connection minutes for WebSocket APIs",
+    pricing_notes: [
+      "Per-request pricing",
+      "Data transfer charges",
+      "Caching additional costs"
+    ]
+  }
+];
+
 export const mockCategories = [
   "Compute",
   "Storage", 
