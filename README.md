@@ -20,6 +20,16 @@
 
 </div>
 
+---
+
+## 📸 Preview
+
+<div align="center">
+  <img src="https://via.placeholder.com/800x450/232F3E/FF9900?text=AWS+Services+Comparison+Tool" alt="AWS Services Comparison Tool Preview" width="80%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
+</div>
+
+---
+
 ## ✨ Features
 
 - **Service Comparison**: Side-by-side comparison of AWS services
