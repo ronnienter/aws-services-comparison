@@ -1,12 +1,24 @@
 # AWS Services Comparison Tool
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aws-services-comparison-25bnm6l2f-ronnienters-projects.vercel.app)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+<div align="center">
+  
+[![Deployed on Vercel](https://img.shields.io/badge/▲%20Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://aws-services-comparison-25bnm6l2f-ronnienters-projects.vercel.app)
+[![React](https://img.shields.io/badge/⚛️%20Built%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232a)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/🔷%20Powered%20by-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2d3748)](https://www.typescriptlang.org/)
 
-🚀 **[Live Demo](https://aws-services-comparison-25bnm6l2f-ronnienters-projects.vercel.app)**
+[![MIT License](https://img.shields.io/badge/📄%20License-MIT-green?style=for-the-badge&labelColor=2d3748)](./LICENSE)
+[![AWS](https://img.shields.io/badge/☁️%20Focused%20on-AWS%20Services-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)](https://aws.amazon.com/)
+[![GitHub Stars](https://img.shields.io/github/stars/ronnienter/aws-services-comparison?style=for-the-badge&logo=github&logoColor=white&labelColor=2d3748&color=ffd700)](https://github.com/ronnienter/aws-services-comparison/stargazers)
 
-A modern web application for comparing Amazon Web Services with detailed information about features, pricing models, and use cases.
+</div>
+
+<div align="center">
+  
+### 🚀 **[✨ Try Live Demo ✨](https://aws-services-comparison-25bnm6l2f-ronnienters-projects.vercel.app)**
+
+*A modern web application for comparing Amazon Web Services with detailed information about features, pricing models, and use cases.*
+
+</div>
 
 ## ✨ Features
 
