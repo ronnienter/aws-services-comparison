@@ -51,7 +51,7 @@ npm run dev
 - **Compute**: EC2, Lambda
 - **Storage**: S3
 - **Database**: RDS, DynamoDB  
-- **Networking**: CloudFront
+- **Networking**: CloudFront, API Gateway
 
 Each service includes pricing, features, use cases, and free tier details.
 
